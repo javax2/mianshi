@@ -1,0 +1,423 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b2587309-6717-4aa0-8935-5111b8c0c3aa" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-291345347">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.open.time.13" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="1" />
+          <entry key="java" value="11" />
+          <entry key="md" value="1" />
+          <entry key="xml" value="1" />
+          <entry key="yml" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="1" />
+          <entry key="JAVA" value="11" />
+          <entry key="Markdown" value="1" />
+          <entry key="XML" value="1" />
+          <entry key="YAML" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="718" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="718" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/com/huiyu/demo/service/CustomerService.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/huiyu/demo/PracticeDemoApplicationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/huiyu/demo/service/UserService.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/apache-maven-3.6.2" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="22" />
+    <option name="y" value="17" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectId" id="1d7e9T6XfT8JsIhVnoO7ApG1byo" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="practice-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice-demo" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="practice-demo" type="b2602c69:ProjectViewProjectNode" />
+              <item name="practice-demo" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="E:/开发工具/Git/git/Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Spring Boot.PracticeDemoApplication">
+    <configuration name="PracticeDemoApplicationTests.contextLoads" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huiyu.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.huiyu.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.huiyu.demo.PracticeDemoApplicationTests" />
+      <option name="METHOD_NAME" value="contextLoads" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeDemoApplicationTests.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="practice-demo" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.huiyu.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.huiyu.demo" />
+      <option name="MAIN_CLASS_NAME" value="com.huiyu.demo.PracticeDemoApplicationTests" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PracticeDemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="practice-demo" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.huiyu.demo.PracticeDemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.PracticeDemoApplicationTests.contextLoads" />
+      <item itemvalue="Spring Boot.PracticeDemoApplication" />
+      <item itemvalue="JUnit.PracticeDemoApplicationTests.test1" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.PracticeDemoApplicationTests.test1" />
+        <item itemvalue="JUnit.PracticeDemoApplicationTests.contextLoads" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b2587309-6717-4aa0-8935-5111b8c0c3aa" name="Default Changelist" comment="" />
+      <created>1591780406626</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591780406626</updated>
+      <workItem from="1592361684948" duration="7762000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="PracticeDemoApplicationTests_test1 - 2020.06.17 at 11h 55m 58s.xml">
+      <configuration name="PracticeDemoApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeDemoApplicationTests_test1 - 2020.06.17 at 11h 56m 25s.xml">
+      <configuration name="PracticeDemoApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeDemoApplicationTests_test1 - 2020.06.17 at 12h 01m 28s.xml">
+      <configuration name="PracticeDemoApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeDemoApplicationTests_test1 - 2020.06.17 at 12h 02m 11s.xml">
+      <configuration name="PracticeDemoApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeDemoApplicationTests_contextLoads - 2020.06.17 at 12h 04m 41s.xml">
+      <configuration name="PracticeDemoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeDemoApplicationTests_test1 - 2020.06.17 at 12h 06m 19s.xml">
+      <configuration name="PracticeDemoApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeDemoApplicationTests_contextLoads - 2020.06.17 at 12h 06m 40s.xml">
+      <configuration name="PracticeDemoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeDemoApplicationTests_contextLoads - 2020.06.17 at 12h 10m 00s.xml">
+      <configuration name="PracticeDemoApplicationTests.contextLoads" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeDemoApplicationTests_test1 - 2020.06.17 at 12h 10m 09s.xml">
+      <configuration name="PracticeDemoApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="PracticeDemoApplicationTests_test1 - 2020.06.17 at 12h 14m 41s.xml">
+      <configuration name="PracticeDemoApplicationTests.test1" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="7762000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="7" />
+    <layout>
+      <window_info id="Web" side_tool="true" />
+      <window_info id="Designer" />
+      <window_info id="UI Designer" />
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1860817" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Java Enterprise" />
+      <window_info anchor="bottom" id="Spring" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" weight="0.32840723" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.59016395" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.6262295" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Maven Projects" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$" />
+    </ignored-roots>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1591781257386">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="458" y="205" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591781257386" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom" timestamp="1591782686672">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-46.1920.1057@0.0.1440.900" timestamp="1591782686672" />
+    <state width="1398" height="304" key="GridCell.Tab.0.bottom/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591782043359" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center" timestamp="1591782686670">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900/1440.-46.1920.1057@0.0.1440.900" timestamp="1591782686670" />
+    <state width="1398" height="304" key="GridCell.Tab.0.center/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591782043356" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left" timestamp="1591782686669">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900/1440.-46.1920.1057@0.0.1440.900" timestamp="1591782686669" />
+    <state width="1398" height="304" key="GridCell.Tab.0.left/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591782043354" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right" timestamp="1591782686671">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900/1440.-46.1920.1057@0.0.1440.900" timestamp="1591782686671" />
+    <state width="1398" height="304" key="GridCell.Tab.0.right/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591782043358" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom" timestamp="1591782686676">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-46.1920.1057@0.0.1440.900" timestamp="1591782686676" />
+    <state width="1398" height="304" key="GridCell.Tab.1.bottom/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591782043363" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center" timestamp="1591782686674">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900/1440.-46.1920.1057@0.0.1440.900" timestamp="1591782686674" />
+    <state width="1398" height="304" key="GridCell.Tab.1.center/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591782043361" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left" timestamp="1591782686673">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900/1440.-46.1920.1057@0.0.1440.900" timestamp="1591782686673" />
+    <state width="1398" height="304" key="GridCell.Tab.1.left/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591782043360" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right" timestamp="1591782686675">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900/1440.-46.1920.1057@0.0.1440.900" timestamp="1591782686675" />
+    <state width="1398" height="304" key="GridCell.Tab.1.right/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591782043362" />
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup" timestamp="1591856713718">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="210" width="670" height="675" key="run.anything.popup/0.0.1440.900@0.0.1440.900" timestamp="1591856713718" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup" timestamp="1591856777493">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900/1440.-69.1920.1080@0.0.1440.900" timestamp="1591854683102" />
+    <state x="385" y="196" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1591856777493" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1680">
+          <caret line="56" column="21" selection-start-line="56" selection-start-column="21" selection-end-line="56" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huiyu/demo/controller/TestController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="15" column="17" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
+          <folding>
+            <element signature="e#376#377#0" expanded="true" />
+            <element signature="e#412#413#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readme.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="90">
+            <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/.m2/repository/org/junit/platform/junit-platform-commons/1.6.2/junit-platform-commons-1.6.2.jar!/org/junit/platform/commons/util/ReflectionUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="67">
+          <caret line="363" selection-start-line="363" selection-end-line="363" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huiyu/demo/domain/CustomerInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="320">
+          <caret line="12" column="25" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huiyu/demo/domain/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="21" selection-start-line="21" selection-end-line="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huiyu/demo/service/CustomerService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="276">
+          <caret line="22" column="35" lean-forward="true" selection-start-line="22" selection-start-column="35" selection-end-line="22" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/huiyu/demo/PracticeDemoApplicationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1140">
+          <caret line="52" column="35" lean-forward="true" selection-start-line="52" selection-start-column="35" selection-end-line="52" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huiyu/demo/PracticeDemoApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="23" lean-forward="true" selection-start-column="23" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/huiyu/demo/service/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="109">
+          <caret line="46" column="58" selection-start-line="46" selection-start-column="58" selection-end-line="46" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
